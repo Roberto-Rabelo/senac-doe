@@ -1,0 +1,13 @@
+
+body{
+    background-color:white;
+}
+.nav-item a:hover{
+    background-color: white;
+    color:red !important;
+    transition: 0.5s;
+    border-radius: 5px;
+}
+.nav-bar{
+    font-size: 700px;
+}
