@@ -8,6 +8,27 @@ body{
     transition: 0.5s;
     border-radius: 5px;
 }
-.nav-bar{
-    font-size: 700px;
+.teste{
+    text-align: center;
+}
+.nav>li>a.active {
+    background-color: #fafafa !important;
+    
+}
+.nav>li>a.active {
+   color: red !important;
+    
+}
+.nav-pills li a{
+    color:grey;
+}
+.nav-pills > li > a:hover {
+    background: white; /* your preferred color */
+    color: red;
+    }
+hr{
+    color: red;
+}
+li{
+    color:red;
 }
